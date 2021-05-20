@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7rGK6jjvOAPdQNH+E05NSFTNIyR4ef857YFE5SBZJjZxdQB/RvqhWDrzZzsbliuS+Wg/MxEQ1oymeb/eEBQGSw==",
+  "dgSpecHash": "8HlvY5W7IIhLyl1A4cIt7AK9mQPUNoi2tJNgM3V2pg4WEn9E0CgfWiPCrNGO4xPNs4awODQDnvZJCfKaiwG5IQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivan.petric\\Desktop\\ExampleApi\\ExampleApi\\ExampleApi.csproj",
+  "projectFilePath": "D:\\Development\\Source\\Repos\\ExampleApi\\ExampleApi\\ExampleApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivan.petric\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512",
     "C:\\Users\\ivan.petric\\.nuget\\packages\\doublel.queryablebuilder\\1.2.2\\doublel.queryablebuilder.1.2.2.nupkg.sha512",

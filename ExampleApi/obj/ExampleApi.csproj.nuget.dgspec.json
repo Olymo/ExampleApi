@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivan.petric\\Desktop\\ExampleApi\\ExampleApi\\ExampleApi.csproj": {}
+    "D:\\Development\\Source\\Repos\\ExampleApi\\ExampleApi\\ExampleApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivan.petric\\Desktop\\ExampleApi\\ExampleApi\\ExampleApi.csproj": {
+    "D:\\Development\\Source\\Repos\\ExampleApi\\ExampleApi\\ExampleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivan.petric\\Desktop\\ExampleApi\\ExampleApi\\ExampleApi.csproj",
+        "projectUniqueName": "D:\\Development\\Source\\Repos\\ExampleApi\\ExampleApi\\ExampleApi.csproj",
         "projectName": "ExampleApi",
-        "projectPath": "C:\\Users\\ivan.petric\\Desktop\\ExampleApi\\ExampleApi\\ExampleApi.csproj",
+        "projectPath": "D:\\Development\\Source\\Repos\\ExampleApi\\ExampleApi\\ExampleApi.csproj",
         "packagesPath": "C:\\Users\\ivan.petric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivan.petric\\Desktop\\ExampleApi\\ExampleApi\\obj\\",
+        "outputPath": "D:\\Development\\Source\\Repos\\ExampleApi\\ExampleApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivan.petric\\AppData\\Roaming\\NuGet\\NuGet.Config",
